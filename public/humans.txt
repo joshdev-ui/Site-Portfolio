@@ -1,0 +1,8 @@
+Portfolio: Joshua T. Sarno
+Bohol, Philippines
+GitHub: https://github.com/JoshDev1207
+
+Original design and code foundation: Hamish Williams
+https://github.com/HamishMW/portfolio
+Adapted with a midnight/copper theme, custom JS mark, personal content and preview-coming-soon screens.
+Original MIT license retained in LICENSE.

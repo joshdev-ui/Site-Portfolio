@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="katakana-project" viewBox="0 0 751 136">
+      <text x="0" y="112" font-family="Arial, Helvetica, sans-serif" font-size="120" font-weight="700" letter-spacing="8" textLength="745" lengthAdjust="spacingAndGlyphs">SELECTED</text>
+    </symbol>
+    <symbol id="katakana-profile" viewBox="0 0 136 766">
+      <text x="68" y="8" writing-mode="vertical-rl" text-orientation="upright" font-family="IPA Gothic, Yu Gothic, Hiragino Kaku Gothic Pro, Meiryo, sans-serif" font-size="112" font-weight="700" textLength="750" lengthAdjust="spacing">ジョシュア</text>
+    </symbol>
+  </defs>
+</svg>

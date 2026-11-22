@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+ <defs><linearGradient id="copper" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e1ac78"/><stop offset="1" stop-color="#e1ac78" stop-opacity="0.06"/></linearGradient><radialGradient id="glow"><stop stop-color="#e1ac78" stop-opacity=".1"/><stop offset="1" stop-color="#e1ac78" stop-opacity="0"/></radialGradient></defs>
+ <rect width="1280" height="800" fill="#0b1420"/>
+ <circle cx="1075.2" cy="400" r="410" fill="url(#glow)"/>
+ <g fill="none" stroke="url(#copper)" stroke-width="1.5" opacity=".5" transform="translate(1164.8 368) rotate(-28)">
+ <ellipse rx="310" ry="370"/><ellipse rx="250" ry="300"/><ellipse rx="190" ry="230"/>
+ </g>
+ <path d="M70 90v-20h45 M1165 730h45v-20" fill="none" stroke="#e1ac78" stroke-width="3"/>
+ <g fill="#f5efe6" font-family="Arial,Helvetica,sans-serif">
+ <text x="70" y="142" font-weight="700" font-size="28" letter-spacing="3">JS / JOSHUA SARNO</text>
+ <text x="70" y="308" font-size="16" font-weight="700" letter-spacing="5" fill="#e1ac78">PERSONAL PORTFOLIO</text>
+ <text x="70" y="396" font-size="74" font-weight="700" letter-spacing="-3">Preview coming soon.</text>
+ <path d="M70 450h110" stroke="#e1ac78" stroke-width="3"/>
+ <text x="70" y="505" font-size="20" fill="#95a2b0">A closer look is on the way.</text>
+ <text x="70" y="660" font-size="17" fill="#e1ac78" letter-spacing="1">REACT · REMIX · THREE.JS</text>
+ <text x="70" y="710" font-size="15" fill="#95a2b0" letter-spacing="4">JOSHUA SARNO / SELECTED WORK</text>
+ </g></svg>
